@@ -59,7 +59,7 @@ def option2(graph):
     start = time_module.time()
     dist, pred = bellman_ford(graph, source)
     print('Caminho: ', path_graph(pred, target))
-    print('Custo: ', dist[target])
+    print('Custo: ', dist[source][target])
     end = time_module.time()
     print('Tempo gasto: ', end-start)
 
