@@ -6,7 +6,7 @@ O projeto tem como objetivo encontrar o caminho mínimo para grafos orientados. 
 Dijkstra, Bellman-Ford e Floyd-Warshall. O programa recebe um arquivo '.txt' contendo grafos no modelo DIMACS e solicita ao usuário os seguintes dados: Arquivo a ser lido
 Algorítmo a ser executado, Origem e Destino.
 
-## Linguagens utilizadas :books:
+## Linguagem utilizadas :books:
 
 Python
 
